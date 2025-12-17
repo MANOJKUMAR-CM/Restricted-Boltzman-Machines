@@ -1,4 +1,4 @@
-# Restricted-Boltzman-Machines
+# Restricted Boltzman Machines
 Numpy implementation of RBMs. 
 
 
