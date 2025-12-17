@@ -1,4 +1,6 @@
 # Restricted-Boltzman-Machines
+Numpy implementation of RBMs. 
+
 
 ## 📧 Contact
 
